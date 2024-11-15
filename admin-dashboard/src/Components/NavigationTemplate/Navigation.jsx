@@ -9,7 +9,7 @@ const Navigation = () => {
                      alt="user-img" 
                      className="profile-img" />
             </div>
-            <span>creative_ambition</span>
+            <span>IT Admin Dashboard</span>
         </header>
     </div>
   )
